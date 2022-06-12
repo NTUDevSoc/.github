@@ -4,14 +4,6 @@ The Nottingham Trent University's (NTU) Developers Society is a student run soci
 In addition to this we also host a few different open-source projects that our members are encouraged to contribute to.
 
 
-### Where to find us:
-* [Website](https://devsoc.co.uk/)
-* [Instagram](https://www.instagram.com/ntudevsoc/)
-* [Twitter](https://twitter.com/DevSoc)
-* [Facebook](https://www.facebook.com/ntudevsoc)
-
-
-
 
 
 <!--
